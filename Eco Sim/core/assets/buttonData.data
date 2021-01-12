@@ -1,0 +1,19 @@
+buttonData.png
+size: 190, 94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buttonPressed
+  rotate: false
+  xy: 0, 0
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+buttonUnpressed
+  rotate: false
+  xy: 0, 45
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
